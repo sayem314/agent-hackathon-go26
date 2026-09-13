@@ -1,0 +1,12 @@
+# secrets
+.env
+
+# run transcripts
+runs/
+
+# build output
+/agent-hackathon-go26
+/dist/
+
+# macOS
+.DS_Store

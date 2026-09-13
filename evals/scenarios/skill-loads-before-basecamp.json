@@ -1,0 +1,6 @@
+{
+  "name": "skill-loads-before-basecamp",
+  "prompt": "List my Basecamp project names, one per line, nothing else.",
+  "expect_tools": ["load_skill", "shell"],
+  "expect_output_contains": ["Omarchy"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "skill-loads-before-github",
+  "prompt": "How many GitHub repos do I own? Reply with the count and nothing else.",
+  "expect_tools": ["load_skill", "shell"],
+  "expect_output_contains": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "direct-answer-no-tools",
+  "prompt": "What is 17 * 23? Reply with the number only.",
+  "expect_output_contains": ["391"],
+  "expect_no_tool_calls": true
+}

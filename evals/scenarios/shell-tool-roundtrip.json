@@ -1,0 +1,6 @@
+{
+  "name": "shell-tool-roundtrip",
+  "prompt": "Use the shell to compute 2 to the power of 16, then reply with the number only.",
+  "expect_tools": ["shell"],
+  "expect_output_contains": ["65536"]
+}
